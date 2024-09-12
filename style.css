@@ -1,0 +1,30 @@
+.kartya{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 23px;
+    box-shadow: 5px 5px 5px #D1D1D1;
+}
+
+img{
+    width: 100%;
+}
+
+body{
+    background-color: #FCE181;
+}
+
+main{
+    background-color: #FEF9C7;
+    margin: 1%;
+    font-family: cursive;
+}
+
+h1{
+    margin-bottom: 1%;
+    font-size: 40px;
+}
+
+footer{
+    text-align: center;
+}
